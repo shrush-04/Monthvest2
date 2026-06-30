@@ -200,9 +200,7 @@ price_history (
 
 ---
 
-## 🖼 Screenshots
 
-> 📸 Add your screenshots here.
 
 | Screen | Description |
 |---|---|
@@ -212,13 +210,7 @@ price_history (
 
 ---
 
-## ✅ TODO (Before Submission)
 
-- [ ] Add `.env.example` file to the repository
-- [ ] Add README screenshots
-- [ ] Add sample seed data script for demo (20 mock users)
-- [ ] Document all API endpoints in `docs/api.md`
-- [ ] Add error handling documentation
 
 ---
 
